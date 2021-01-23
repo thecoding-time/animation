@@ -1,0 +1,3 @@
+"use strict";
+/../core / components / com_camera.ts;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tX2NhbWVyYS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImNvbV9jYW1lcmEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFFLFFBQVEsR0FBQyxVQUFVLEdBQUMsVUFBVSxDQUFDLEVBQUUsQ0FBQSJ9

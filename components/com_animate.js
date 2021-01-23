@@ -1,0 +1,3 @@
+"use strict";
+/../core / components / com_animate.ts;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tX2FuaW1hdGUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJjb21fYW5pbWF0ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUUsUUFBUSxHQUFDLFVBQVUsR0FBQyxXQUFXLENBQUMsRUFBRSxDQUFBIn0=

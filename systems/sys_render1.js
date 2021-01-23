@@ -1,0 +1,3 @@
+"use strict";
+/../core / systems / sys_render1.ts;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3lzX3JlbmRlcjEuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJzeXNfcmVuZGVyMS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUUsUUFBUSxHQUFDLE9BQU8sR0FBQyxXQUFXLENBQUMsRUFBRSxDQUFBIn0=

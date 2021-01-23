@@ -1,0 +1,3 @@
+"use strict";
+/../core / components / com_transform.ts;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tX3RyYW5zZm9ybS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImNvbV90cmFuc2Zvcm0udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFFLFFBQVEsR0FBQyxVQUFVLEdBQUMsYUFBYSxDQUFDLEVBQUUsQ0FBQSJ9

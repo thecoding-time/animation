@@ -1,0 +1,3 @@
+"use strict";
+/../core / systems / sys_animate.ts;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3lzX2FuaW1hdGUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJzeXNfYW5pbWF0ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUUsUUFBUSxHQUFDLE9BQU8sR0FBQyxXQUFXLENBQUMsRUFBRSxDQUFBIn0=
